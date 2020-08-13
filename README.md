@@ -1,4 +1,8 @@
 # Shiva Saxena - Blog
 
-This is my personal blog other than ["A Habit of Learning"](https://geekyshacklebolt.wordpress.com) that is on wordpress. This one is powered by [Pelican](https://docs.getpelican.com/en/stable/) and beautified by the theme [Pelican-Clean-Blog](https://github.com/gilsondev/pelican-clean-blog). I'm thankful to their developers! :)
+This is my personal blog powered by [Pelican](https://docs.getpelican.com/en/stable/) and beautified by the theme [Pelican-Clean-Blog](https://github.com/gilsondev/pelican-clean-blog), along with my custom changes on my fork [here](https://github.com/GeekyShacklebolt/pelican-clean-blog/tree/geeky-pelican-clean-blog).
+
+I am thankful to the deveopers of [Pelican](https://docs.getpelican.com/en/stable/) and [Pelican-Clean-Blog](https://github.com/gilsondev/pelican-clean-blog)! :)
+
+Want to check it out? The blog is available at https://GeekyShacklebolt.github.io/blog
 
