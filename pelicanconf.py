@@ -45,7 +45,7 @@ SOCIAL = (
     ('github', 'https://github.com/geekyshacklebolt'),
     ('linkedin', 'https://linkedin.com/in/shiva-saxena'),
     ('instagram', 'https://instagram.com/geekyshacklebolt'),
-    ('twitter', 'https://twitter.com/geekyshacklebolt'),
+    ('twitter', 'https://twitter.com/ershivasaxena'),
     ('wordpress', 'https://geekyshacklebolt.wordpress.com'),
     ('pencil', 'http://www.thegeekyway.com/author/geekyshacklebolt'),
     ('envelope', 'mailto:shivasaxena911@gmail.com'),
