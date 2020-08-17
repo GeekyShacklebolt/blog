@@ -48,7 +48,7 @@ SOCIAL = (
     ('twitter', 'https://twitter.com/ershivasaxena'),
     ('wordpress', 'https://geekyshacklebolt.wordpress.com'),
     ('pencil', 'http://www.thegeekyway.com/author/geekyshacklebolt'),
-    ('envelope', 'mailto:shivasaxena911@gmail.com'),
+    ('envelope', 'mailto:shiva@shivasaxena.com'),
 )
 
 SITESUBTITLE = 'Blog'
