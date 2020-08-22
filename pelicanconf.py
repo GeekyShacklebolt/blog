@@ -49,6 +49,7 @@ SOCIAL = (
     ('wordpress', 'https://geekyshacklebolt.wordpress.com'),
     ('pencil', 'http://www.thegeekyway.com/author/geekyshacklebolt'),
     ('envelope', 'mailto:shiva@shivasaxena.com'),
+    ('youtube-play', 'https://www.youtube.com/channel/UCWXrY2a5ycx2JBgmJNQBsJQ')
 )
 
 SITESUBTITLE = 'Blog'
